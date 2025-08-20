@@ -4,6 +4,6 @@ deepface
 opencv-python
 tensorflow
 mtcnn
-numpy
+numpy<2.0
 av
 mediapipe
