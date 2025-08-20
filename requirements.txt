@@ -1,7 +1,7 @@
 streamlit
 streamlit-webrtc
 deepface
-opencv-python-headless
+opencv-python
 tensorflow
 mtcnn
 numpy
